@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 
 
 [website]: www.somil.xyz
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: none
 [youtube]: https://www.youtube.com/channel/UC8Sj3Ir5udy_Y3NutK5JH3A
 [instagram]: https://www.instagram.com/tyagi.somil1998/
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/somil-tyagi-71a166177/
 
 
 
