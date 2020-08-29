@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Jesse - aka [Wh1teR0se][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Student, Developer, and Teacher!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on a [Python Projects][website]!
+- 🌱 I’m currently learning Data Structures And Algorithm 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2020 Goals: Learn More Related to Cyber Security and Networking
+- ⚡ Fun fact: I love to play Games
 
 ### Connect with me:
 
