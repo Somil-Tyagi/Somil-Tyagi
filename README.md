@@ -53,22 +53,21 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How To Build A React App w/ Hooks & Airtable API | styled-components | Code Quality Check](https://www.youtube.com/watch?v=FEoEvSmtmPQ)
-- [UPDATE: VS Code July 2020 Stable Release | Settings Sync | Browser Debugging](https://www.youtube.com/watch?v=4adVM33GAlA)
-- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
-- [SPEED RUN: Build a CRUD API with PrestoAPI & MongoDB Atlas in 9 Minutes! Then Airbnb Clone!](https://www.youtube.com/watch?v=6C45qCt41VY)
-- [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/watch?v=TpAwggQJPUQ)
+- [HACK ANY WIFI-WPS (WPA/WPA2)IN 5 SEC!!!! WITH SILENT-GHOSTX- HT-WPS BREAKER](https://www.youtube.com/watch?v=ewLXwGyLsjk)
+- [Download And Install Wifislax For Hacking Wifi || All Wifi Hacking Tools In One Place](https://www.youtube.com/watch?v=dsPeHaApL7M)
+- [HACKING A COMPUTER ON YOUR NETWORK || COMPUTER HACKING LESSON](https://www.youtube.com/watch?v=u26Am6Qa3Lo&t=284s)
+
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UC8Sj3Ir5udy_Y3NutK5JH3A)
 
 ---
 
 
-[website]: https://github.com/Somil-Tyagi
+[website]: www.somil.xyz
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UC8Sj3Ir5udy_Y3NutK5JH3A
+[instagram]: https://www.instagram.com/tyagi.somil1998/
 [linkedin]: https://linkedin.com/in/codeSTACKr
 
 
