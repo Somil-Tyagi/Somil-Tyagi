@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ---
 
 
-[website]: www.somil.xyz
+[website]: http://www.somil.xyz/
 [twitter]: none
 [youtube]: https://www.youtube.com/channel/UC8Sj3Ir5udy_Y3NutK5JH3A
 [instagram]: https://www.instagram.com/tyagi.somil1998/
