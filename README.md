@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Somil - aka [Wh1teR0se][website] 👋
+### नमस्ते (Namaste) Hi there, I'm Somil - aka [Wh1teR0se][website] 👋
+<img align='right' src="https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif" width="230">
 
 ## I'm a Student, Developer, and Teacher!
 
