@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### नमस्ते (Namaste) Hi there, I'm Somil - aka [Wh1teR0se][website] 👋
-<img align='right' src="https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="230">
 
 ## I'm a Student, Developer, and Teacher!
 
