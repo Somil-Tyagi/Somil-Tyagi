@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ---
 
 
-[website]
+[website]: https://github.com/Somil-Tyagi
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
