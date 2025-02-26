@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 
 ## I'm a Student, Developer, Social Engineer!
 
-- 🔭 I’m currently working on a [Python Projects][website]!
-- 🌱 I’m currently learning Data Structures And Algorithm 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn More Related to Cyber Security and Networking
+- 🔭 Currently working on [Python Projects][website]!
+- 🌱 Currently learning Windows Forensincs.
+- 👯 I’m looking to collaborate with other DFIR folks.
 - ⚡ Fun fact: I love Hacking 
 
 ### Connect with me:
@@ -64,11 +63,10 @@ Here are some ideas to get you started:
 ---
 
 
-[website]: http://www.somil.xyz/
-[twitter]: none
+[website]: https://somiltyagi.com/, https://hacktivity.in/
+[twitter]: https://x.com/tyagisomil98
 [youtube]: https://www.youtube.com/channel/UC8Sj3Ir5udy_Y3NutK5JH3A
-[instagram]: https://www.instagram.com/tyagi.somil1998/
-[linkedin]: https://www.linkedin.com/in/somil-tyagi-71a166177/
+[linkedin]: https://www.linkedin.com/in/hacktivity/
 
 
 
