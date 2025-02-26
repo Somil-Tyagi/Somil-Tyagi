@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ---
 
 
-[website]: https://somiltyagi.com/, https://hacktivity.in/
+[website]: https://hacktivity.in
 [twitter]: https://x.com/tyagisomil98
 [youtube]: https://www.youtube.com/channel/UC8Sj3Ir5udy_Y3NutK5JH3A
 [linkedin]: https://www.linkedin.com/in/hacktivity/
