@@ -1,27 +1,12 @@
 <!--
 **Somil-Tyagi/Somil-Tyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### नमस्ते (Namaste) Hi there, I'm Somil - aka [Wh1teR0se][website] 👋
+### नमस्ते (Namaste) Hi there, I'm Somil - aka [Wh1teR0se][about] 👋
 <img align='right' src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="230">
 
-## I'm a Student, Developer, Social Engineer!
-
-- 🔭 Currently working on [Python Projects][website]!
-- 🌱 Currently learning Windows Forensincs.
-- 👯 I’m looking to collaborate with other DFIR folks.
-- ⚡ Fun fact: I love Hacking 
+- 📖 You can go through my [blogs]website]
+- 👯 I’m looking to collaborate with DFIR folks.
 
 ### Connect with me:
 
@@ -48,14 +33,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [HACK ANY WIFI-WPS (WPA/WPA2)IN 5 SEC!!!! WITH SILENT-GHOSTX- HT-WPS BREAKER](https://www.youtube.com/watch?v=ewLXwGyLsjk)
-- [Download And Install Wifislax For Hacking Wifi || All Wifi Hacking Tools In One Place](https://www.youtube.com/watch?v=dsPeHaApL7M)
-- [HACKING A COMPUTER ON YOUR NETWORK || COMPUTER HACKING LESSON](https://www.youtube.com/watch?v=u26Am6Qa3Lo&t=284s)
-
-<!-- YOUTUBE:END -->
+### 📺 YouTube Channel
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC8Sj3Ir5udy_Y3NutK5JH3A)
 
@@ -63,6 +41,7 @@ Here are some ideas to get you started:
 
 
 [website]: https://hacktivity.in
+[about]: https://somiltyagi.com
 [twitter]: https://x.com/tyagisomil98
 [youtube]: https://www.youtube.com/channel/UC8Sj3Ir5udy_Y3NutK5JH3A
 [linkedin]: https://www.linkedin.com/in/hacktivity/
