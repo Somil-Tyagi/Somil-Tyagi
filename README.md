@@ -1,11 +1,22 @@
 <!--
 **Somil-Tyagi/Somil-Tyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 
-### नमस्ते (Namaste) Hi there, I'm Somil - aka [Wh1teR0se][about] 👋
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+### नमस्ते (Namaste) Hi there, I'm Somil - aka [Wh1teR0se][personal] 👋
 <img align='right' src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="230">
 
-- 📖 You can go through my [blogs]website]
+- 🔭 You can read my [blogs][website]!
 - 👯 I’m looking to collaborate with DFIR folks.
 
 ### Connect with me:
@@ -41,12 +52,7 @@
 
 
 [website]: https://hacktivity.in
-[about]: https://somiltyagi.com
 [twitter]: https://x.com/tyagisomil98
 [youtube]: https://www.youtube.com/channel/UC8Sj3Ir5udy_Y3NutK5JH3A
 [linkedin]: https://www.linkedin.com/in/hacktivity/
-
-
-
-
-
+[personal]: https://somiltyagi.com
